@@ -1,0 +1,106 @@
+config:
+  prefix: '~'
+  button-style: SECONDARY
+  thread-name: buttons-pressed
+  num-per-row: 5 # max 4 rows with max 5 items per row b/c menu = 1 row
+                 #  (no more than 20 sounds per category)
+categories:
+  animals:
+    cat:
+      emoji: 🐱
+    dog:
+      emoji: 🐶
+    cow:
+      emoji: 🐮
+    fox:
+      emoji: 🦊
+    horse:
+      emoji: 🐴
+    dolphin:
+      emoji: 🐬
+    whale:
+      emoji: 🐋
+    pig:
+      emoji: 🐷
+    bear:
+      emoji: 🐻
+    wolf:
+      emoji: 🐺
+    hen:
+      emoji: 🐔
+    monkey:
+      emoji: 🐵
+    chick:
+      emoji: 🐤
+    lion:
+      emoji: 🦁
+    owl:
+      emoji: 🦉
+    snake:
+      emoji: 🐍
+    mouse:
+      emoji: 🐭
+    frog:
+      emoji: 🐸
+    dragon:
+      emoji: 🐲
+    beaver:
+      emoji: 🦫
+    
+  anime:
+    one-piece:
+      emoji: one-piece
+    naruto:
+      emoji: naruto
+    psycho-pass:
+      emoji: psycho-pass
+    ohshc:
+      emoji: 💋
+
+  dnd:
+    dice-roll:
+      emoji: 🎲
+    critical-success:
+      emoji: 🎉
+    critical-fail:
+      emoji: ☠️
+    suspicious:
+      emoji: 👀
+    mage:
+      emoji: 🧙
+    fairy:
+      emoji: 🧚
+
+  monsters:
+    roar:
+      emoji: roar
+    growl:
+      emoji: growl
+
+  transportation:
+    train:
+      emoji: 🚊
+    car:
+      emoji: 🚗
+    police-car:
+      emoji: 🚓
+    ambulance:
+      emoji: 🚑
+    airplane:
+      emoji: ✈️
+    helicopter:
+      emoji: 🚁
+    ship:
+      emoji: 🚢
+    anchor:
+      emoji: ⚓
+    horse-gallop:
+      emoji: 🏇
+
+  weapons:
+    arrow-hit:
+      emoji: 🏹 ✅
+    arrow-miss:
+      emoji: 🏹 ❌
+    axe-hit:
+      emoji: 🪓 ✅
